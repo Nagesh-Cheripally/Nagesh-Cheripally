@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Nagesh-Cheripally
 - 👀 I’m interested in Data Science, Machine Learning, TSA, Deep Learning
-- 📫 How to reach me - Ncheripally@gmail.com, <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="ncheripally"><a class="LI-simple-link" href='https://in.linkedin.com/in/ncheripally?trk=profile-badge'>Nagesh Cheripally</a></div>
-- 5+ years of experience in data analytics and operations research with a passion to solve real-world challenges, Hands-on Data and Analytics subject matter expert, focused on developing end-to-end analytics solutions to address complex business problems, and a Post Graduate Diplomaed in Data Science.
+- 📫 How to reach me - Ncheripally@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
+
+- I'm a Post Graduate diploma student in Data Science & Analytics student at Amity University graduating in 2020. Before that I worked at WIPRO & GLOBAL LOGIC for 5 years in Hyderabad, India. Currently looking for full-time positions as a Data Scientist, Machine Learning Engineer in India.
+
+- What I bring to the table 🧠:
+
 
 <!---
 Nagesh-Cheripally/Nagesh-Cheripally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
