@@ -11,17 +11,19 @@ What I bring to the table 🧠:
 - Excellent skills in Python, R & SQL; familiarity with C, Java, JavaScript (particularly D3.js), HTML/CSS.
 - Working knowledge of Docker & (AWS S3, SageMaker Studio, GroundTruth, Athena, QuickSight) for putting ML models into production via Flask Apps.
 - Experience with Big Data technologies such as PySpark, Spark, Hive, MapReduce.
-- Ability to work with Git & GitHub in an Agile Development fashion.
+- Ability to work with Git & GitHub in an Agile Development method.
 
 Broad array of Machine Learning knowledge:
 
 Supervised Learning
+
  - Tree based methods (Decision Trees, Random Forests, Gradient Boosted Trees)
  - Support Vector Machines
  - Time Series Forecasting (ARIMA, SARIMA, RNN, LSTM RNN)
  - Linear & Logistic Regression
 
 Unsupervised Learning
+
 - Clustering (KMeans, Gaussian Mixture, Agglomerative)
 - Customer Life Time Modelling
 - Recommendation Systems (Content based & Collaborative filtering)
@@ -29,11 +31,13 @@ Unsupervised Learning
 - Survival Analysis
 
 Optimization
+
 - Supply Chain Network Optimization
 - Travelling Salesman Problem (TSP) & Vehicle Routing Problem (VRP)
 - A/B Testing (Power Analysis)
 
 Text Analytics & Deep Learning
+
 - NLP Packages (nltk, textblob, gensim, Spacy)
 - CNNs, LSTMs, Transformers, BERT, Word2Vec, Autoencoders
 
