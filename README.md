@@ -15,14 +15,14 @@ What I bring to the table 🧠:
 
 Broad array of Machine Learning knowledge:
 
-Supervised Learning
+Supervised Learning:
 
  - Tree based methods (Decision Trees, Random Forests, Gradient Boosted Trees)
  - Support Vector Machines
  - Time Series Forecasting (ARIMA, SARIMA, RNN, LSTM RNN)
  - Linear & Logistic Regression
 
-Unsupervised Learning
+Unsupervised Learning:
 
 - Clustering (KMeans, Gaussian Mixture, Agglomerative)
 - Customer Life Time Modelling
@@ -30,13 +30,13 @@ Unsupervised Learning
 - Dimensionality Reduction (PCA)
 - Survival Analysis
 
-Optimization
+Optimization:
 
 - Supply Chain Network Optimization
 - Travelling Salesman Problem (TSP) & Vehicle Routing Problem (VRP)
 - A/B Testing (Power Analysis)
 
-Text Analytics & Deep Learning
+Text Analytics & Deep Learning:
 
 - NLP Packages (nltk, textblob, gensim, Spacy)
 - CNNs, LSTMs, Transformers, BERT, Word2Vec, Autoencoders
