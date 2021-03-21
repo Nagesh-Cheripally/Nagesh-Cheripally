@@ -2,7 +2,7 @@ Welcome to my GitHub 👋
 
 👋 Hi, I’m @Nagesh-Cheripally
 
-📫 How to reach me - Ncheripally@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
+📫 How to reach me - ncheripally55@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
 
 I'm a Post Graduate diploma student in Data Science & Analytics student at Amity University graduating in 2020. Before that I worked at WIPRO & GLOBAL LOGIC for 5 years in Hyderabad, India. Currently looking for full-time positions as a Data Scientist, Machine Learning Engineer in India.
 
@@ -18,7 +18,7 @@ Broad array of Machine Learning knowledge:
 Supervised Learning
  - Tree based methods (Decision Trees, Random Forests, Gradient Boosted Trees)
  - Support Vector Machines
- - Time Series Forecasting
+ - Time Series Forecasting (ARIMA, SARIMA, RNN, LSTM RNN)
  - Linear & Logistic Regression
 
 Unsupervised Learning
@@ -34,8 +34,10 @@ Optimization
 - A/B Testing (Power Analysis)
 
 Text Analytics & Deep Learning
-- NLP Packages (nltk, gensim, Spacy)
+- NLP Packages (nltk, textblob, gensim, Spacy)
 - CNNs, LSTMs, Transformers, BERT, Word2Vec, Autoencoders
+
+Thanks for stopping by!
 
 <!---
 Nagesh-Cheripally/Nagesh-Cheripally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
