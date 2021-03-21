@@ -41,6 +41,20 @@ Text Analytics & Deep Learning:
 - NLP Packages (nltk, textblob, gensim, Spacy)
 - CNNs, LSTMs, Transformers, BERT, Word2Vec, Autoencoders
 
+Analysis Skills: 
+
+- Survival and Factor Analysis
+- CHAID, CART, Hypothesis Testing
+- ANOVA, Propensity score
+- Poisson Distribution, Box-Cox Transform
+- Chebyshev's inequality, Spearman rank correlation coefficent
+
+Business: 
+
+- Analytics Value Chain 
+- Generating Business Value with Analytics
+
+
 Thanks for stopping by!
 
 <!---
