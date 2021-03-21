@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @Nagesh-Cheripally
-- 👀 I’m interested in Data Science, Machine Learning, TSA, Deep Learning
-- 📫 How to reach me - Ncheripally@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
+Welcome to my GitHub 👋
 
-- I'm a Post Graduate diploma student in Data Science & Analytics student at Amity University graduating in 2020. Before that I worked at WIPRO & GLOBAL LOGIC for 5 years in Hyderabad, India. Currently looking for full-time positions as a Data Scientist, Machine Learning Engineer in India.
+👋 Hi, I’m @Nagesh-Cheripally
 
-- What I bring to the table 🧠:
+📫 How to reach me - Ncheripally@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
+
+I'm a Post Graduate diploma student in Data Science & Analytics student at Amity University graduating in 2020. Before that I worked at WIPRO & GLOBAL LOGIC for 5 years in Hyderabad, India. Currently looking for full-time positions as a Data Scientist, Machine Learning Engineer in India.
+
+What I bring to the table 🧠:
+
+- Excellent skills in Python, R & SQL; familiarity with C, Java, JavaScript (particularly D3.js), HTML/CSS.
+- Working knowledge of Docker & (AWS S3, SageMaker Studio, GroundTruth, Athena, QuickSight) for putting ML models into production via Flask Apps.
+- Experience with Big Data technologies such as PySpark, HDFS, Hive, MapReduce.
+- Ability to work with Git & GitHub in an Agile Development fashion.
+- Broad array of Machine Learning knowledge:
+-   Supervised Learning
+-     Tree based methods (Decision Trees, Random Forests, Gradient Boosted Trees)
+-     Support Vector Machines
+-     Time Series Forecasting
+-     Linear & Logistic Regression
+
+
+
+
+Unsupervised Learning
+Clustering (KMeans, Gaussian Mixture, Agglomerative)
+Customer Life Time Modelling
+Recommendation Systems (Content based & Collaborative filtering)
+Dimensionality Reduction (PCA)
+Survival Analysis
+Optimization
+Supply Chain Network Optimization
+Travelling Salesman Problem (TSP) & Vehicle Routing Problem (VRP)
+Experience with PuLP & Gurobipy
+A/B Testing (Power Analysis)
+Text Analytics & Deep Learning
+NLP Packages (nltk, gensim, Spacy)
+CNNs, LSTMs, Transformers, Word2Vec, Autoencoders
+Reinforcement Learning (Multi-Armed Bandit, Q-Learning)
 
 
 <!---
