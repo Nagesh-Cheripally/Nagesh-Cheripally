@@ -30,12 +30,6 @@ Unsupervised Learning:
 - Dimensionality Reduction (PCA)
 - Survival Analysis
 
-Optimization:
-
-- Supply Chain Network Optimization
-- Travelling Salesman Problem (TSP) & Vehicle Routing Problem (VRP)
-- A/B Testing (Power Analysis)
-
 Text Analytics & Deep Learning:
 
 - NLP Packages (nltk, textblob, gensim, Spacy)
@@ -45,7 +39,7 @@ Analysis Skills:
 
 - Survival and Factor Analysis
 - CHAID, CART, Hypothesis Testing
-- ANOVA, Propensity score
+- ANOVA, Propensity score, A/B Testing (Power Analysis)
 - Poisson Distribution, Box-Cox Transform
 - Chebyshev's inequality, Spearman rank correlation coefficent
 
