@@ -29,11 +29,10 @@ Languages and Tools:
 
 Certifications:
 
-- Machine Learning [Course authorized by Stanford University and offered through Coursera]
-- Data Analytics 360 [Offered by Cornell University] 
-- TensorFlow: Data and Deployment [Course authorized by Deeplearning.ai and offered through Coursera]
-- Neural Networks and Deep Learning [Course authorized by Deeplearning.ai and offered through Coursera]
-
+- Machine Learning
+- Data Analytics 360
+- TensorFlow: Data and Deployment
+- Neural Networks and Deep Learning
 
 
 Broad array of Machine Learning knowledge:
