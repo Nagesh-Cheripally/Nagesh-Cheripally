@@ -12,13 +12,11 @@ What I bring to the table 🧠:
 
 Languages and Tools:
 
-<p align="center">
+<p align="left">
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="55" title="hover text">
+  <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/10/aws_logo_smile_1200x630.png" width="65" title="hover text">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" title="hover text">
   <img src="https://cdn.iconscout.com/icon/free/png-512/r-5-283170.png" width="50" title="hover text">
-  <img src="https://cdn4.iconfinder.com/data/icons/files-47/64/sql-512.png" width="50" title="hover text">
-  <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="110" title="hover text">
-  <img src="https://symbols.getvecta.com/stencil_78/1_d3js-icon.c055dd1c87.png" width="48" title="hover text"> 
-  
 </p>
 
 
