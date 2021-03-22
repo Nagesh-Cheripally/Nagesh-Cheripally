@@ -22,7 +22,6 @@ Languages and Tools:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" width="40" title="hover text">
   <img src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" width="45" title="hover text">
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" width="50" title="hover text">
-  <img src="https://i1.wp.com/forecastpublicart.org/wp-content/uploads/2020/03/FORECAST_Logo_fb.jpg?fit=1200%2C600&ssl=1" width="55" height="50" title="hover text">
   <img src="https://img.stackshare.io/service/8762/q8sc1KuZ_400x400.jpg" width="50" title="hover text">
   <img src="https://miro.medium.com/max/1200/1*tP-dw4Oj_42BYbkdtYbjMA.png" width="65" height="40" title="hover text">
   <img src="https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png" width="65" height="40" title="hover text">
