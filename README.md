@@ -25,12 +25,14 @@ Languages and Tools:
   <img src="https://img.stackshare.io/service/8762/q8sc1KuZ_400x400.jpg" width="50" title="hover text">
   <img src="https://miro.medium.com/max/1200/1*tP-dw4Oj_42BYbkdtYbjMA.png" width="65" height="40" title="hover text">
   <img src="https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png" width="65" height="40" title="hover text">
-  
-    
-
-  
-  
 </p>
+
+Certifications:
+
+- Machine Learning [Course authorized by Stanford University and offered through Coursera]
+- Data Analytics 360 [Offered by Cornell University] 
+- TensorFlow: Data and Deployment [Course authorized by Deeplearning.ai and offered through Coursera]
+- Neural Networks and Deep Learning [Course authorized by Deeplearning.ai and offered through Coursera]
 
 
 
