@@ -1,6 +1,6 @@
 Welcome to my GitHub 👋
 
-I'm a Post Graduate diploma student in Data Science & Analytics at Amity University graduating in 2020. Before that I worked at wipro & global logic for 5 years in Hyderabad, India. Currently looking for full-time positions as a Data Scientist, Machine Learning or AI Engineer in India.
+I'm a Post Graduate diploma student in Data Science & Analytics at Amity University graduating in 2020. Before that I worked at Wipro & Global logic in the field of data science,machine learning and analytics for 5 years in Hyderabad, India. Currently looking for full-time positions as a Data Scientist, Machine Learning or AI Engineer in India.
 
 👋 📫 How to reach me - ncheripally55@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
 
@@ -10,6 +10,10 @@ What I bring to the table 🧠:
 - Worked on these tools: Docker & AWS(S3, SageMaker Studio, GroundTruth, Athena, QuickSight), Jupyter NB for putting ML models into production via Flask Apps.
 - Experience with Big Data technologies such as Databricks, PySpark, Spark, Hive, MapReduce.
 - Ability to work with Git & GitHub in an Agile Development method.
+
+Languages and Tools:
+
+
 
 Broad array of Machine Learning knowledge:
 
