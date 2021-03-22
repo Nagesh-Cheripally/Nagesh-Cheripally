@@ -1,8 +1,8 @@
-Welcome to my GitHub 👋
+### Welcome to my GitHub 👋
 
 I'm a Post Graduate diploma student in Data Science & Analytics at Amity University graduating in 2020. Before that I worked at Wipro & Global logic in the field of data science,machine learning and analytics for 5 years in Hyderabad, India. Currently looking for full-time positions as a Data Scientist, Machine Learning or AI Engineer in India.
 
-👋 📫 How to reach me - ncheripally55@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
+📫 How to reach me - ncheripally55@gmail.com, Linked In - https://in.linkedin.com/in/ncheripally
 
 What I bring to the table 🧠:
 
