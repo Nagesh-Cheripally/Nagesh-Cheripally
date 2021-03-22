@@ -9,9 +9,16 @@ What I bring to the table 🧠:
 - Excellent skills in Python, R & SQL; familiarity with C, Java, JavaScript (particularly D3.js), HTML/CSS.
 - Worked on these tools: Docker & AWS(S3, SageMaker Studio, GroundTruth, Athena, QuickSight), Jupyter NB for putting ML models into production via Flask Apps.
 - Experience with Big Data technologies such as Databricks, PySpark, Spark, Hive, MapReduce.
-- Ability to work with Git & GitHub in an Agile Development method.
 
 Languages and Tools:
+
+<p align="center">
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" title="hover text">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/r-5-283170.png" width="50" title="hover text">
+  <img src="https://cdn4.iconfinder.com/data/icons/files-47/64/sql-512.png" width="50" title="hover text">
+
+  
+</p>
 
 
 
