@@ -14,7 +14,7 @@ Languages and Tools:
 
 <p align="left">
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="55" title="hover text">
-  <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/10/aws_logo_smile_1200x630.png" width="75" title="hover text">
+  <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/10/aws_logo_smile_1200x630.png" width="55" title="hover text">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" title="hover text">
   <img src="https://cdn.iconscout.com/icon/free/png-512/r-5-283170.png" width="50" title="hover text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" width="42" title="hover text">
