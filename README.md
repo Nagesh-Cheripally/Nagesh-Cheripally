@@ -29,11 +29,10 @@ Languages and Tools:
 
 Certifications:
 
-- Machine Learning
-- Data Analytics 360
-- TensorFlow: Data and Deployment
-- Neural Networks and Deep Learning
-
+- <a href="https://drive.google.com/file/d/16G9sH48EPM-osP5y4VC4H03fNmPfJ6B3/view">Machine Learning</a>
+- <a href="https://drive.google.com/file/d/1iNFv6f3FN7oe6ANUncnNc8ZOg_b4ED2y/view">Data Analytics 360</a>
+- <a href="https://drive.google.com/file/d/1gpd605TJYhqYU0xl6qsZVRGZOkugAYft/view">TensorFlow: Data and Deployment</a>
+- <a href="https://drive.google.com/file/d/1X3yuZP-0pWB1Q8AMVjvppyD6wonyXWSv/view">Neural Networks and Deep Learning</a>
 
 Broad array of Machine Learning knowledge:
 
