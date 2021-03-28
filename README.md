@@ -7,7 +7,7 @@ I'm a Post Graduate diploma student in Data Science & Analytics at Amity Univers
 What I bring to the table 🧠:
 
 - Excellent skills in Python, R & SQL; familiarity with C, Java, JavaScript (particularly D3.js), HTML/CSS.
-- Worked on these tools: Docker, AWS(S3, SageMaker Studio, GroundTruth, Athena, QuickSight), Jupyter NB, Tableau for putting ML models into production via Flask Apps.
+- Worked on these tools: Docker, AWS(S3, SageMaker Studio, Elastic BeamStack, Athena, QuickSight), Jupyter NB, Tableau for putting ML models into production via Flask Apps.
 - Experience with Big Data technologies such as Databricks, PySpark, Spark, Hive, MapReduce.
 
 Languages and Tools:
