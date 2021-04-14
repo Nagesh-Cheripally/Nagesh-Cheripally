@@ -13,7 +13,7 @@ What I bring to the table 🧠:
 Languages and Tools:
 
 <p align="left">
-  <img src="https://ih1.redbubble.net/image.709402177.8295/pp,840x830-pad,1000x1000,f8f8f8.u3.jpg" width="50">
+  <img src="https://ih1.redbubble.net/image.709402177.8295/pp,840x830-pad,1000x1000,f8f8f8.u3.jpg" width="53">
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="55" title="hover text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1200px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="55" title="hover text">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="45" title="hover text"> 
