@@ -26,7 +26,7 @@ Languages and Tools:
   <img src="https://img.stackshare.io/service/8762/q8sc1KuZ_400x400.jpg" width="50" title="hover text">
   <img src="https://miro.medium.com/max/1200/1*tP-dw4Oj_42BYbkdtYbjMA.png" width="65" height="40" title="hover text">
   <img src="https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png" width="65" height="40" title="hover text">
-  <img src="https://pbs.twimg.com/profile_images/1069442664146169856/WKGbUPMS.jpg" width="48" height="45" title="hover text">
+  <img src="https://s3-eu-west-1.amazonaws.com/boolo.io/company-logo/Talend.png" width="48" height="45" title="hover text">
   <img src="https://data.world/api/datadotworld-apps/dataset/spss-modeler/file/raw/logo.png" width="48" height="45" title="hover text">
   
 </p>
