@@ -13,7 +13,6 @@ What I bring to the table 🧠:
 Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" width="48">
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="55" title="hover text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1200px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="55" title="hover text">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="45" title="hover text"> 
@@ -24,11 +23,11 @@ Languages and Tools:
   <img src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" width="45" title="hover text">
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" width="50" title="hover text">
   <img src="https://img.stackshare.io/service/8762/q8sc1KuZ_400x400.jpg" width="50" title="hover text">
+  <img src="https://user-images.githubusercontent.com/76208087/126104386-d7e5a408-8df3-4e6a-b7aa-dbecc5986dfc.png" width="50" title="hover text">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEc8qUvaeIwMKZ6yf1BWpzjvPEo1NLkS3Qn9mCaFrC_VpF-NsHOhtZ4A-8P1es8lHSAc&usqp=CAU" width="65" title="hover text">
   <img src="https://miro.medium.com/max/1200/1*tP-dw4Oj_42BYbkdtYbjMA.png" width="65" height="40" title="hover text">
   <img src="https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png" width="65" height="40" title="hover text">
-  <img src="https://s3-eu-west-1.amazonaws.com/boolo.io/company-logo/Talend.png" width="48" height="45" title="hover text">
-  <img src="https://data.world/api/datadotworld-apps/dataset/spss-modeler/file/raw/logo.png" width="48" height="45" title="hover text">
-  
+  <img src="https://user-images.githubusercontent.com/76208087/126104971-feed1724-9746-4b13-997a-4f4af516f5f5.png" width="65" height="40" title="hover text">
 </p>
 
 Certifications:
